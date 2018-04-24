@@ -1,5 +1,5 @@
 {
-  "name": "@waves/waves-api",
+  "name": "waves-api",
   "version": "0.28.0",
   "description": "Waves client-side API library",
   "keywords": [
